@@ -1,0 +1,40 @@
+{
+    "ownerId": "none",
+    "channels": {
+        "channelLogsPrivId": "none",
+        "channelLogsPublicId": "none",
+        "categoryCartsId": "none"
+    },
+    "roles": {
+        "roleCustomerId": "none"
+    },
+    "images": {
+        "bannerUrl": "none",
+        "thumbUrl": "none"
+    },
+    "embeds": {
+        "color": "none"
+    },
+    "payments": {
+        "mpAcessToken": "none",
+        "paymentsOptions": {
+            "pix": true,
+            "balance": true,
+            "site": true,
+            "semiAuto": false
+        }
+    },
+    "balance": {
+        "bonusDeposit": 0,
+        "minimumDeposit": 0
+    },
+    "semiAuto": {
+        "pix": {
+            "key": "none",
+            "keyType": "none"
+        },
+        "qrCode": "none"
+    },
+    "termsPurchase": "none",
+    "newSales": true
+}
